@@ -12,4 +12,5 @@ Proyek ini berisi kumpulan kasus pengujian untuk penguji manual untuk mengimplem
 - Bug Report
 - Pengujian beban dengan Apache Jmeter
 
-  <img src="D:\GITHUB\Project-Web-Test-Manual-Bhinneka.com\Screen Shot Mengenai Bug - Bhinneka.com\Test Case.PNG" width=2000 height=500/>
+## Beserta Screen Shot 
+  <img src="Screen Shot Mengenai Bug - Bhinneka.com\Test Case.PNG" width=2000 height=500/>
