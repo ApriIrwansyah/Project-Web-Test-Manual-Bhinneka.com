@@ -13,4 +13,4 @@ Proyek ini berisi kumpulan kasus pengujian untuk penguji manual untuk mengimplem
 - Pengujian beban dengan Apache Jmeter
 
 ## Beserta Screen Shot 
-  <img src="Screen Shot Mengenai Bug - Bhinneka.com\Test Case.PNG" width=2000 height=500/>
+  <img src="Screen Shot Mengenai Bug - Bhinneka.com/Jmeter.png" width=2000 height=500/>
